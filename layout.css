@@ -1,0 +1,21 @@
+/* CSS Document */
+body{
+text-align:center;
+}
+span{
+margin:5px;
+}
+div#number{
+position:fixed;
+left:40%;
+bottom:50%;
+
+}
+img{
+width:20px;
+}
+div#sortt{
+position:fixed;
+left:40%;
+bottom:20%;
+}
